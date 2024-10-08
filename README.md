@@ -1,4 +1,4 @@
-![Dal-E Python/SQL](https://raw.githubusercontent.com/EvaRguez/SQL_starter/refs/heads/main/DALL%C2%B7E%202024QL%20logo%20(a%20styliz.webp))
+![Dal-E Python/SQL](https://oaidalleapiprodscus.blob.core.windows.net/private/org-WjwbzHenI2WCRIOWqOv2aS43/user-AbFtuSU1KBaSHkCmharRz1ri/img-UkLMYho1GmWcA4zMLl6b3pY2.png?st=2024-10-08T12%3A06%3A11Z&se=2024-10-08T14%3A06%3A11Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-08T07%3A46%3A04Z&ske=2024-10-09T07%3A46%3A04Z&sks=b&skv=2024-08-04&sig=CJYQI2JcT2wPmfgAai8YdTJWGTcRDKB0KqBK5YZ2hA4%3D)
 # 📊 SQL and Python Integration Project
 
 Welcome to the **SQL and Python Integration** project. This repository contains a set of exercises and projects showcasing the use of SQL in conjunction with Python for data analysis and manipulation. The project emphasizes the power of combining SQL queries with Python libraries to process and analyze data more efficiently.
