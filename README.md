@@ -1,4 +1,4 @@
-![Dal-E Python/SQL](["C:\Users\alejandro.diz\Desktop\bootcamp_data\modulo1\Trabajos_Entregables\SQL_starter\My_SLQ_P.jpeg"](https://raw.githubusercontent.com/EvaRguez/SQL_starter/6b6bd2e1126ea7b1800f4374e1f11633d9486e3f/My_SLQ_P.jpeg))
+![Dal-E Python/SQL]()
 # 📊 SQL and Python Integration Project
 
 Welcome to the **SQL and Python Integration** project. This repository contains a set of exercises and projects showcasing the use of SQL in conjunction with Python for data analysis and manipulation. The project emphasizes the power of combining SQL queries with Python libraries to process and analyze data more efficiently.
