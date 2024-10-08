@@ -1,4 +1,4 @@
-![Dal-E Python/SQL]()
+![Dal-E Python/SQL](https://raw.githubusercontent.com/EvaRguez/SQL_starter/refs/heads/main/DALL%C2%B7E%202024QL%20logo%20(a%20styliz.webp)
 # 📊 SQL and Python Integration Project
 
 Welcome to the **SQL and Python Integration** project. This repository contains a set of exercises and projects showcasing the use of SQL in conjunction with Python for data analysis and manipulation. The project emphasizes the power of combining SQL queries with Python libraries to process and analyze data more efficiently.
